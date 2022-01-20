@@ -1,0 +1,11 @@
+header { 
+  height: 150px;
+  padding-top: 25px;
+}
+.btn >a { 
+  color: #fff;
+  margin: 0px 10px;
+}
+.btn.btn-primary { 
+  margin: 4px;
+}
